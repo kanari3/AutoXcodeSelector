@@ -1,0 +1,2 @@
+# AutoXcodeSelector
+Auto Xcode Selector
